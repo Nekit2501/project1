@@ -1,0 +1,17 @@
+.logo {
+  font-family: Raleway;
+  font-size: 24px;
+  font-weight: 700;
+  color: black;
+}
+
+.logo-blue {
+  font-family: Raleway;
+  font-size: 24px;
+  font-weight: 700;
+  color: aqua;
+}
+
+.button-svg {
+  opacity: 0;
+}/*# sourceMappingURL=style.css.map */
