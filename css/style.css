@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul, ol {
+  list-style: none;
+}
+
+.header {
+  padding: 16px 15px 16px 15px;
+}
+
+.logo {
+  font-family: Raleway;
+  font-size: 24px;
+  font-weight: 700;
+  color: black;
+  position: relative;
+  left: 15px;
+}
+
+.logo-blue {
+  font-family: Raleway;
+  font-size: 24px;
+  font-weight: 700;
+  color: aqua;
+}
+
+.button-svg {
+  background-color: transparent;
+  border: 0px;
+}
+
+.svg-burger-menu {
+  width: 40px;
+  height: 40px;
+  display: flex;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

@@ -1,8 +1,17 @@
+.header{
+
+padding: 16px 15px 16px 15px;
+// width: 450px;
+}
+
+
 .logo{
     font-family: Raleway;
     font-size: 24px;
     font-weight: 700;
     color: black;
+position: relative;
+left: 15px;
 }
 
 .logo-blue{
@@ -13,5 +22,22 @@
 }
 
 .button-svg{
-opacity: 0;
+    background-color: transparent;
+    border: 0px;
+}
+
+.svg-burger-menu
+{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    
+
+}
+
+.nav{
+display: flex;
+justify-content: space-between;
+align-items: center;
+
 }
